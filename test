@@ -1,2 +1,4 @@
 git remote add test https://github.com/ryejeong/github_test.git
 git push -u
+
+git remote --verbose
